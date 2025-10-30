@@ -60,6 +60,3 @@ To deliver a dynamic, visually appealing tool that:
 ## 📷 Screenshots
 
 https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Blue.png
-https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Orange.png
-https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Purple.png
-https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Shades.png
