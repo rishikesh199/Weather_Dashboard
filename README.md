@@ -57,6 +57,12 @@ To deliver a dynamic, visually appealing tool that:
 - WeatherAPI account for API key
 - Internet connection for live data refresh
 
-## 📷 Screenshots
+ ## 📷 Screenshots
 
-https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Blue.png
+![Blue Dashboard](https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Blue.png).
+![Orange Dashboard](https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Orange.png).
+![Purple Dashboard](https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Purple.png).
+![Shades Dashboard](https://raw.githubusercontent.com/rishikesh199/Weather_Dashboard/main/Weather_Dashboard_Shades.png).
+
+
+
