@@ -57,6 +57,9 @@ To deliver a dynamic visual tool that:
 - Internet connection for live data refresh
 
 ## 📷 Screenshots
-
+https://github.com/rishikesh199/Weather_Dashboard/blob/main/Weather_Dashboard%20Blue.png
+https://github.com/rishikesh199/Weather_Dashboard/blob/main/Weather_Dashboard%20Purple.png
+https://github.com/rishikesh199/Weather_Dashboard/blob/main/Weather_Dashboard%20Shades.png
+https://github.com/rishikesh199/Weather_Dashboard/blob/main/Weather_Dashboard_Orange.png
 
 
