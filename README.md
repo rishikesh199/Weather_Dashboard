@@ -1,5 +1,13 @@
-# Weather_Power BI Dashboard
+
+# 🌦️ Weather Dashboard
 Interactive Weather Dashboard built in Power BI using WeatherAPI data.  Includes real-time weather insights, AQI, forecast trends, and custom Figma design backgrounds.
+
+Monitor live weather, temperature patterns, and climate insights.
+
+👉 **Click below to open the Weather Dashboard:**
+
+[![View Weather Report](https://img.shields.io/badge/Power%20BI-Open%20Weather%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiZjgyMjAxOWItMzgzZC00MzIxLTkyNWItNzBkYmJmNjgzMGZmIiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
 
 # 🌤 Weather Insights Dashboard: Real-Time Multi-City Weather Analytics
 
